@@ -6,7 +6,7 @@ https://cdnmdc2.useetv.com/joss/15/tvri/chunklist_w1273842008_b684100_sleng_4617
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="TV Lokal",TVRI 3
 http://118.97.50.107/Content/HLS/Live/Channel(TVRI3)/Stream(02)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="TV Lokal",NET TV
-https://cdnbpp1.useetv.com/joss/15/net/chunklist_w1761005650_b1344100_sleng_310393.m3u8
+https://delivery.macan.live/stream/id_nettv/playlist.m3u8?token=8CxnZ&v=20200308
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="TV Lokal",Kompas TV
 https://vcdnjt.useetv.com/joss/15/kompastv/chunklist_w1388306579_b894100_sleng_735383.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="TV Lokal",RTV
@@ -22,13 +22,13 @@ https://dl.dropbox.com/s/glr4p7lmglp8tab/gtv.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="TV Lokal",RCTI
 https://dl.dropbox.com/s/yqpukzie6nuyk8n/rcti.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="TV Lokal",SCTV
-https://vcdnjt.useetv.com/joss/15/sctv/chunklist_w1027229960_b1344100_sleng_88719.m3u8
+https://delivery.macan.live/stream/id_sctv/playlist.m3u8?token=8CxnZ&v=20200308
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="TV Lokal",Indosiar
-https://cdnmdc2.useetv.com/joss/15/indosiar/chunklist_w72459728_b894100_sleng_108233.m3u8
+https://delivery.macan.live/stream/id_indosiar/playlist.m3u8?token=8CxnZ&v=20200308
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="TV Lokal",Metro TV
 https://vcdnjt.useetv.com/joss/15/metrotv/chunklist_w1262584048_b894100_sleng_307627.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="TV Lokal",ANTV
-https://vcdnjt.useetv.com/joss/15/antv/chunklist_w226638633_b894100_sleng_87965.m3u8
+https://delivery.macan.live/stream/id_antv/playlist.m3u8?token=8CxnZ&v=20200308
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="TV Lokal",MNC TV
 https://dl.dropbox.com/s/l2bqrbubsq6a42u/MNC.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="TV Lokal",INEWS
@@ -526,32 +526,32 @@ http://live2.indostreamserver.com:8018/;
 http://masima.rastream.com/masima-pramborssurabaya?
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Khusus Indihome",Asian Food Channel
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="USEETV",Asian Food Channel
 http://203.153.218.28:9981/stream/channelid/1092664456?ticket=55F1D428F8430B8043855EE1A817CAD070D7E395&profile=pass
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Khusus Indihome",AXN
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="USEETV",AXN
 http://210.210.155.35/uq2663/h/h141/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Khusus Indihome",BBC World News
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="USEETV",BBC World News
 http://203.153.218.28:9981/stream/channelid/861591723?ticket=49C9B533CE6A1DCB536F863DD2A14413DF50853A&profile=pass
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Khusus Indihome",Blue Ant Extreme
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="USEETV",Blue Ant Extreme
 https://cdnbal1.useetv.com/joss/14/blueantextreme/chunklist_w1100727425_b684100_sleng_2751811.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Khusus Indihome",Cartoon Network
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="USEETV",Cartoon Network
 http://203.153.218.28:9981/stream/channelid/251475608?ticket=7E119C03289B159B121AD74C428131F98E22DBB7&profile=pass
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Khusus Indihome",CNN International
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="USEETV",CNN International
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Khusus Indihome",Discovery Channel
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="USEETV",Discovery Channel
 https://vcdnjt.useetv.com/joss/15/disco/chunklist_w149297996_b1344100_sleng_959925.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Khusus Indihome",Fox
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="USEETV",Fox
 https://livedoomovies.com/02_FoxThai_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Khusus Indihome",FOX Family Movies
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="USEETV",FOX Family Movies
 https://livedoomovies.com/02_FoxFamilyHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Khusus Indihome",FOX Action Movies
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="USEETV",FOX Action Movies
 http://203.153.218.28:9981/stream/channelid/1744735983?ticket=07E4904EDFA549D56E57107CB6140923FE593775&profile=pass
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Khusus Indihome",Fox Movies
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="USEETV",Fox Movies
 https://tv4.chang55.com:446/live2/tv4ch26.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Khusus Indihome",FLIK
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="USEETV",FLIK
 https://vcdnjt.useetv.com/joss/15/flik/chunklist_w716575246_b1344100_sleng_80034.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Khusus Indihome",Bioskop
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="USEETV",Bioskop
 https://cdnmdc2.useetv.com/joss/18/zbioskop/chunklist_w313694560_b684100_sleng_123456.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Khusus Indihome",NAT GEO People
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="USEETV",NAT GEO People
 http://203.153.218.28:9981/stream/channelid/1114683377?ticket=DB6A54311D3D267C877A5894268561D2577EE4D3&profile=pass
