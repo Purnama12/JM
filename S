@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="https://imgshare.io/images/2020/04/24/20200425_051241.jpg" group-title="TV Lokal",purnama channel
 https://www.dropbox.com/s/fh4o4upafg1ybdl/Tak%20berjudul%201_720p.mp4?dl=1 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="TV Lokal",NET TV SD
-https://cdnbpp1.useetv.com/joss/15/net/chunklist_w1761005650_b894100_sleng_310393.m3u8
+https://delivery.macan.live/stream/id_nettv/playlist.m3u8?token=8CxnZ&v=20200308
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="TV Lokal",Kompas TV SD
 https://vcdnjt.useetv.com/joss/15/kompastv/chunklist_w1388306579_b894100_sleng_735383.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="TV Lokal",RTV SD
@@ -20,17 +20,17 @@ https://dl.dropbox.com/s/glr4p7lmglp8tab/gtv.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="TV Lokal",RCTI SD
 https://dl.dropbox.com/s/yqpukzie6nuyk8n/rcti.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="TV Lokal",SCTV SD
-https://vcdnjt.useetv.com/joss/15/sctv/chunklist_w1027229960_b1344100_sleng_88719.m3u8
+https://delivery.macan.live/stream/id_sctv/playlist.m3u8?token=8CxnZ&v=20200308
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="TV Lokal",Indosiar SD
-https://cdnmdc2.useetv.com/joss/15/indosiar/chunklist_w72459728_b894100_sleng_108233.m3u8
+https://delivery.macan.live/stream/id_indosiar/playlist.m3u8?token=8CxnZ&v=20200308
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="TV Lokal",Metro TV SD
 https://vcdnjt.useetv.com/joss/15/metrotv/chunklist_w1262584048_b894100_sleng_307627.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="TV Lokal",ANTV
-https://vcdnjt.useetv.com/joss/15/antv/chunklist_w226638633_b894100_sleng_87965.m3u8
+https://delivery.macan.live/stream/id_antv/playlist.m3u8?token=8CxnZ&v=20200308
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="TV Lokal",MNC TV SD
 https://dl.dropbox.com/s/l2bqrbubsq6a42u/MNC.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="TV Lokal",INEWS SD
-https://dl.dropbox.com/s/9f3kt73fnsoqscr/inwes.m3u8?dl=0
+https://cdn-livetv6.metube.id/hls/inewstv_480/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="TV Lokal",JAK TV SD
 https://cdnkbl1.useetv.com/joss/14/jaktv/chunklist_w1342810570_b684100_sleng_12204.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="TV Lokal",MYTV SD
@@ -207,12 +207,12 @@ http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 http://ws.flv.nimo.tv/live/su1599512427586rdd11b1329d2f0e25fc16c80a467f573c_high.flv
 
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Music",Prambors
-https://cdnbal1.useetv.com/joss/14/pramborstv/chunklist_w248898669_b684100_sleng_38623.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Music",Lapak Musik
-http://stream2.ninmedia.tv/lapakmusiktv/rtmp.stream_360p/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Music",9XO
-http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XO/9XO.isml/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Music",MTV Asia
+https://cdn-laos.workpoint.news/sd-mtvasia_480/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Music",MTV Hits
+http://live02-cdn.tv.ti.ru:80/dtv/id210_NBN_SG--MTVHits/03/plst.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Music",Club MTV
+http://live02-cdn.tv.ti.ru:80/dtv/id211_NBN_SG--MTVDance/03/plst.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Music",9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Music",Trace Urban
@@ -261,18 +261,6 @@ http://tv.ebox.live:8080/live/sonyten-2.m3u8
 http://tv.ebox.live:8080/live/sonyten-3.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Sports 1",Sony six
 http://tv.ebox.live:8080/live/sonysix.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" 
-##group-title="Sports 1", Astro 1
-##http://185.59.222.189:25461/sEdFDEpoxg/Vw2ufXDXkP/110252?play_token=4bwMqwtqFo&token=GRdRWUpbQV9BVQBUUlADBwNUCAcAVgMCUgVXBQdXC1IEVw5aDwVSU1URFEQQFxAGVQxnD1YVCVACU1YHAk8aRBFQS2dQV0FfQQIMV1JUW1UWTRoSW1pWQwlSUQsAUwEBVw0BFBtDCgFBCRpUVFBaURZNGgNKQ1YTXQIIbVQGTlgBUBsCV0YPCU8RVwg8BwcOVQ9cRAgVAkMfQQ1BQEECXxdZVRQbUQoREVJMA0FZQFICVgxEHhVQDkYNEEBJQQITL2wbFBtWGxEGXUsPDA1AWRYVS0QeFVoSbBEBQUQRXVAPUEsaAxFTR08RVQcbPAEMWg9dBUZeXA9AQV4QAUEUEw9aV1FNXBE6E1pcRFlBUVUCUxob
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" 
-##group-title="Sports 1", Astro 2
-##http://185.59.222.189:25461/sEdFDEpoxg/Vw2ufXDXkP/110253?play_token=4bwMqwtqFo&token=GRdRWUpbQV9BVQBUUlADBwNUCAcAVgMCUgVXBQdXC1IEVw5aDwVSU1URFEQQFxAGVQxnD1YVCVACU1YHAk8aRBFQS2dQV0FfQQIMV1JUW1UWTRoSW1pWQwlSUQsAUwEBVw0BFBtDCgFBCRpUVFBaURZNGgNKQ1YTXQIIbVQGTlgBUBsCV0YPCU8RVwg8BwcOVQ9cRAgVAkMfQQ1BQEECXxdZVRQbUQoREVJMA0FZQFICVgxEHhVQDkYNEEBJQQITL2wbFBtWGxEGXUsPDA1AWRYVS0QeFVoSbBEBQUQRXVAPUEsaAxFTR08RVQcbPAEMWg9dBUZeXA9AQV4QAUEUEw9aV1FNXBE6E1pcRFlBUVUCUxob
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" 
-##group-title="Sports 1", Astro 3
-##http://185.59.222.189:25461/sEdFDEpoxg/Vw2ufXDXkP/110254?play_token=4bwMqwtqFo&token=GRdRWUpbQV9BVQBUUlADBwNUCAcAVgMCUgVXBQdXC1IEVw5aDwVSU1URFEQQFxAGVQxnD1YVCVACU1YHAk8aRBFQS2dQV0FfQQIMV1JUW1UWTRoSW1pWQwlSUQsAUwEBVw0BFBtDCgFBCRpUVFBaURZNGgNKQ1YTXQIIbVQGTlgBUBsCV0YPCU8RVwg8BwcOVQ9cRAgVAkMfQQ1BQEECXxdZVRQbUQoREVJMA0FZQFICVgxEHhVQDkYNEEBJQQITL2wbFBtWGxEGXUsPDA1AWRYVS0QeFVoSbBEBQUQRXVAPUEsaAxFTR08RVQcbPAEMWg9dBUZeXA9AQV4QAUEUEw9aV1FNXBE6E1pcRFlBUVUCUxob
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg"
-##group-title="Sports 1", Astro 4
-##http://185.59.222.189:25461/sEdFDEpoxg/Vw2ufXDXkP/110255?play_token=4bwMqwtqFo&token=GRdRWUpbQV9BVQBUUlADBwNUCAcAVgMCUgVXBQdXC1IEVw5aDwVSU1URFEQQFxAGVQxnD1YVCVACU1YHAk8aRBFQS2dQV0FfQQIMV1JUW1UWTRoSW1pWQwlSUQsAUwEBVw0BFBtDCgFBCRpUVFBaURZNGgNKQ1YTXQIIbVQGTlgBUBsCV0YPCU8RVwg8BwcOVQ9cRAgVAkMfQQ1BQEECXxdZVRQbUQoREVJMA0FZQFICVgxEHhVQDkYNEEBJQQITL2wbFBtWGxEGXUsPDA1AWRYVS0QeFVoSbBEBQUQRXVAPUEsaAxFTR08RVQcbPAEMWg9dBUZeXA9AQV4QAUEUEw9aV1FNXBE6E1pcRFlBUVUCUxob
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Sports 1", SKYNET SPORTS 0
 https://livedoomovies.com/03_skynetsporthd_720p/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Sports 1", SKYNET SPORTS 1
@@ -395,8 +383,6 @@ https://timesnow.airtel.tv/live/MNX_pull/chunklist_3.m3u8
 https://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Movies",Romedy Now
 https://timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Movies",HITS Movies
-https://delivery.macan.live/stream/hits_movies/playlist.m3u8?token=Ex2Kp&v=20200308
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Movies",Citra Drama
 https://vcdnjt.useetv.com/joss/18/cdrama/chunklist_w1622977694_b684100_sleng_123456.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Movies",Celestial Movies
@@ -407,6 +393,8 @@ http://cdn.miip.tv:8080/canada/123456/2659?checkedby:iptvcat.com
 http://cdn.miip.tv:8080/canada/123456/3520?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Movies",Blue Ant Extreme
 http://45.126.83.51:80/session/b74c136c-7251-11e9-9783-83b5ae4d75de/dr9445/h/h15/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Movies",Blue Ant Entertainment
+http://210.210.155.35/dr9445/h/h16/01.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Movies",Sinema Indonesia
 http://45.126.83.51/x6bnqe/s/s71/index2.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/9XNvzw2p/20200425-051241.jpg" group-title="Movies",FOX Family Movies
